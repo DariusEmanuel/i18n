@@ -1,0 +1,27 @@
+{
+  "universe": "Univers",
+  "coffee_with_aliens": {
+    "reference": "ET-CAFEA",
+    "subtext": "Bucurați-vă de o ceașcă de cafea alături de prietenii extratereștri la Zona 51. Marți la 3:00 dimineața.",
+    "title": "Cafea cu Extratereștri"
+  },
+  "secret_agent": "Agent Secret",
+  "top_secret_mission": {
+    "reference": "TS-MISIUNE",
+    "subtext": "Porniți într-o misiune de spionaj top-secret. Codul: Operațiunea Stealth.",
+    "title": "Misiune Top Secret"
+  },
+  "ghost_hunting": "Vânătoare de Fantome",
+  "haunted_mansion_explore": {
+    "reference": "VF-MANSIUNE",
+    "subtext": "Explorați o casă bântuită alături de vânători de fantome profesioniști. Aduceți-vă propriul rucsac cu protoni.",
+    "title": "Explorare în Casa Bântuită"
+  },
+  "pirate_treasure": "Comoara Piratului",
+  "hidden_booty_quest": {
+    "reference": "CP-MISIUNE",
+    "subtext": "Porniți într-o misiune pentru a găsi comoara ascunsă a piratului. X marchează locul pe Insula Comorii.",
+    "title": "Misiune pentru Comoara Ascunsă"
+  },
+  "goto": "Mergeti la [DESTINATION] la numarul [NUMBER]"
+}

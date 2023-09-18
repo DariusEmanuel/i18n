@@ -1,0 +1,27 @@
+{
+  "universe": "Universe",
+  "coffee_with_aliens": {
+    "reference": "ET-COFFEE",
+    "subtext": "Enjoy a cup of coffee with extraterrestrial friends at Area 51. Tuesdays at 3:00 AM.",
+    "title": "Coffee with Aliens"
+  },
+  "secret_agent": "Secret Agent",
+  "top_secret_mission": {
+    "reference": "TS-MISSION",
+    "subtext": "Embark on a top-secret espionage mission. Codename: Operation Stealth.",
+    "title": "Top Secret Mission"
+  },
+  "ghost_hunting": "Ghost Hunting",
+  "haunted_mansion_explore": {
+    "reference": "GH-MANSION",
+    "subtext": "Explore a haunted mansion with professional ghost hunters. Bring your own proton pack.",
+    "title": "Haunted Mansion Explore"
+  },
+  "pirate_treasure": "Pirate Treasure",
+  "hidden_booty_quest": {
+    "reference": "PT-QUEST",
+    "subtext": "Embark on a quest to find hidden pirate treasure. X marks the spot on Treasure Island.",
+    "title": "Hidden Booty Quest"
+  },
+  "goto": "Please go to [DESTINATION] at number [NUMBER]"
+}
